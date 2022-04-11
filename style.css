@@ -35,3 +35,11 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
+
+#high-priority-tasks {
+  color: red;
+}
+
+#low-priority-tasks {
+  color: green;
+}
